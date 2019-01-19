@@ -1,0 +1,28 @@
+studentlist* {
+	border:1px solid black;
+	width: 60%;
+}
+student1* ,student2* ,student3*{
+	display: block;
+	text-align: center;
+	margin-left:200px;
+}
+name{
+	font-size: 30pt;
+	color:red;
+	font-style: bold;
+}
+usn{
+	color:orange;
+}
+college{color: green;
+}
+branch{
+	color: blue;
+}
+joindate{
+	color:yellow;
+}
+email{
+	color:purple;
+}
